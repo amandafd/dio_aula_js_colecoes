@@ -10,9 +10,9 @@
 <h2>Atividade 1: Maps</h2>
 <p>Crie uma função que retorna o nome dos membros de um Map que tem o papel 'ADMIN' no sistema.
   <ol>
-    <li>Crie uma função `getAdmins` que recebe um `Map`;</li>
+    <li>Crie uma função 'getAdmins' que recebe um 'Map';</li>
     <li>Crie um Map e popule-o com nomes de usuários e seus papeis no sistema. (Ex: 'Luiz' => 'Admin');</li>
-    <li>Dentro de `getAdmins`, utilize o loop `for...of` para retornar uma lista com os nomes dos usu;arios que são administradores.</li>
+    <li>Dentro de 'getAdmins', utilize o loop 'for...of' para retornar uma lista com os nomes dos usuários que são administradores.</li>
   </ol>    
 </p>
 
@@ -20,7 +20,7 @@
   <p>
     <ol>
       <li>
-      Dado o array `[30, 30, 40, 5, 223, 2049, 3034, 5]`, retorne outro array apenas com valores únicos.
+      Dado o array '[30, 30, 40, 5, 223, 2049, 3034, 5]', retorne outro array apenas com valores únicos.
       </li>
     </ol>      
 
